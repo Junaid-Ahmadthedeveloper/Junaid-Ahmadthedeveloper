@@ -1,4 +1,4 @@
-[![Header](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/Junaid-Ahmadthedeveloper)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Junaid Ahmad</h1>
 <h3 align="center">A passionate Laravel & Wordpress Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
