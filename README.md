@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/fcd090c9c0...)](https://github.com/Junaid-Ahmadthedeveloper)
 <h1 align="center">Hi 👋, I'm Junaid Ahmad</h1>
 <h3 align="center">A passionate Laravel & Wordpress Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
@@ -16,7 +15,6 @@
 - 📫 How to reach me **junaidawaan8492@gmail.com**
 
 - 📄 Know about my experiences [One Year](One Year)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/junaid-ahmad-webdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/junaid-ahmad-webdeveloper" height="30" width="40" /></a>
