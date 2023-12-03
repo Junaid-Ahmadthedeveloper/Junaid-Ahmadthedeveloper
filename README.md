@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blogging Website**
+- 🔭 I’m currently working on **E_Commerece Website**
 
 - 🌱 I’m currently learning **Laravel,Wordpress,Web developement Course from Azad Chaiwala Institute.**
 
@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [One Year](One Year)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/junaid-ahmad-webdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/junaid-ahmad-webdeveloper" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/junaid-ahmad-webdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/junaid-ahmad-webdeveloper" height="30" width="40" /></a>
 <a href="https://fb.com/junaid ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junaid ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/junaid_ahmad33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junaid_ahmad33" height="30" width="40" /></a>
 </p>
