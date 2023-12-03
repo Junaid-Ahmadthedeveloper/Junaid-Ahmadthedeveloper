@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **junaidawaan8492@gmail.com**
 
-- 📄 Know about my experiences [One Year](One Year)
+- 📄 Know about my experiences (One Year)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/junaid-ahmad-webdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/junaid-ahmad-webdeveloper" height="30" width="40" /></a>
